@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rawest04.github.io/AlfagorKrampus/sitemap.xml

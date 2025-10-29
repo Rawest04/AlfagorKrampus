@@ -1,0 +1,1 @@
+// Smooth scroll via CSS. Placeholder for future enhancements.
